@@ -3,7 +3,6 @@
  */
 public class Tetris {
     public static void main(String[] args) {
-        System.out.print("Ready");
-        System.out.print("Version1");
+        System.out.print("Ready-ready");
     }
 }
