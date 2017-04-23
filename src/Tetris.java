@@ -4,5 +4,6 @@
 public class Tetris {
     public static void main(String[] args) {
         System.out.print("Ready-ready");
+        System.out.print("Version1");
     }
 }
